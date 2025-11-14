@@ -1,0 +1,779 @@
+{
+    "1_Iran_Nuclear_and_Democracy": [
+        "Iran nuclear program",
+        "Iran human rights",
+        "Iran democracy",
+        "Iran electoral process",
+        "Iran conflict",
+        "Human rights in Iran",
+        "Iranian elections",
+        "Iranian regime",
+        "European policy on Iran",
+        "EU-Iran relations",
+        "democracy and human rights in Iran"
+    ],
+    "2_Transatlantic_Trade_and_Economic_Relations": [
+        "transatlantic trade",
+        "US-EU economic relations",
+        "Transatlantic Economic Council",
+        "transatlantic relationship",
+        "transatlantic judicial cooperation"
+    ],
+    "3_EU_Energy_Policy_and_Security": [
+        "EU energy policy",
+        "EU energy security",
+        "energy supply security",
+        "energy supply",
+        "energy security",
+        "energy dependency",
+        "energy supply diversification"
+    ],
+    "4_Climate_Change_General": [
+        "climate change",
+        "climate change effects",
+        "climate change strategy",
+        "climate change policy",
+        "climate change negotiations",
+        "climate crisis",
+        "climate change action"
+    ],
+    "5_Climate_Finance_and_Agreements": [
+        "climate finance",
+        "climate change financing",
+        "climate change funding",
+        "climate agreement financing",
+        "Copenhagen climate summit",
+        "Copenhagen climate agreement"
+    ],
+    "6_Climate_Adaptation_and_Regulation": [
+        "climate change adaptation",
+        "climate regulations",
+        "climate protection competitiveness",
+        "climate change emissions"
+    ],
+    "7_EU_VAT_and_Taxation": [
+        "VAT systems harmonisation",
+        "tax derogation Portugal",
+        "excise duty on spirits",
+        "Reduced excise duty",
+        "EU taxation policy"
+    ],
+    "8_Human_Rights_General": [
+        "fundamental rights",
+        "Human Rights Commissioner",
+        "Fundamental Rights",
+        "human rights",
+        "Uyghur human rights",
+        "Lithuania human rights"
+    ],
+    "9_Media_and_Press_Freedom": [
+        "media pluralism",
+        "media ownership",
+        "media balance",
+        "media freedom",
+        "freedom of the press",
+        "press freedom"
+    ],
+    "10_EU_Commission_and_Institutions": [
+        "European Commission policies",
+        "European Commission activities",
+        "Commission composition",
+        "Commission nominations",
+        "Commission organization"
+    ],
+    "11_Energy_Companies_and_Gas": [
+        "Gazprom Union",
+        "Nabucco gas pipeline",
+        "Nabucco pipeline",
+        "energy efficiency cooperation"
+    ],
+    "12_Migration_and_Asylum": [
+        "asylum and migration",
+        "immigration and human rights",
+        "immigration policy",
+        "fight immigration",
+        "illegal immigration",
+        "immigration management policies"
+    ],
+    "13_Visa_and_Border_Agreements": [
+        "visa exemption agreement",
+        "visa-free travel",
+        "visa waiver agreements",
+        "visa-free travel agreement",
+        "Schengen Agreement",
+        "Schengen acquis",
+        "Schengen area"
+    ],
+    "14_EU_Foreign_Policy_and_EEAS": [
+        "EU foreign policy structure",
+        "EU foreign policy",
+        "EU External Action Service",
+        "external action service",
+        "European diplomatic service"
+    ],
+    "15_EU_Reports_and_Ombudsman": [
+        "European Ombudsman report",
+        "European Ombudsman",
+        "European Ombudsman cooperation"
+    ],
+    "16_Energy_Efficiency_and_Buildings": [
+        "energy efficiency buildings",
+        "energy efficiency standards"
+    ],
+    "17_Language_and_Minority_Rights": [
+        "minority language rights",
+        "minority rights in China",
+        "minorities policy",
+        "Minority rights"
+    ],
+    "18_Lisbon_Treaty_and_Reforms": [
+        "Treaty of Lisbon",
+        "Lisbon Treaty",
+        "Lisbon Treaty implementation",
+        "Lisbon Treaty ratification",
+        "Treaty of Lisbon procedures"
+    ],
+    "19_Economic_Recovery_and_Crisis": [
+        "European recovery plan",
+        "economic recovery plan",
+        "global financial crisis",
+        "economic and financial crisis",
+        "economic system reform"
+    ],
+    "20_G20_and_Global_Economic_Governance": [
+        "G20 Summit",
+        "G20 conclusions",
+        "G20 Summit response"
+    ],
+    "21_Afghanistan_War_and_Strategy": [
+        "Afghanistan war strategy",
+        "Afghanistan situation",
+        "Afghanistan Pakistan plan",
+        "Afghanistan strategy",
+        "Afghanistan war",
+        "Afghanistan withdrawal"
+    ],
+    "22_Russia_Georgia_Conflicts": [
+        "Russia-Georgia conflict",
+        "Georgia's territorial integrity",
+        "2008 Georgia conflict",
+        "Georgia conflict report",
+        "Georgia conflict 2008",
+        "Russia's Georgia conflict"
+    ],
+    "23_Internet_and_Digital_Rights": [
+        "internet access restrictions",
+        "digital copyright",
+        "digital single market",
+        "internet end-user safeguards"
+    ],
+    "24_EU_Climate_Trading_and_CO2": [
+        "emissions trading directive",
+        "CO2 geological storage",
+        "geological storage of CO2",
+        "carbon capture and storage"
+    ],
+    "25_Israel_Taiwan_International_Issues": [
+        "Israel democracy",
+        "Situation in Taiwan",
+        "Taiwan typhoon aid",
+        "Taiwan disaster relief"
+    ],
+    "26_Social_and_Poverty_Issues": [
+        "social crisis",
+        "social inclusion",
+        "unemployment and poverty"
+    ],
+    "27_Agriculture_and_Dairy_Crisis": [
+        "poultry and eggs trade",
+        "dairy crisis",
+        "dairy farmer support",
+        "Milk sector support",
+        "milk sector crisis"
+    ],
+    "28_Health_and_Climate": [
+        "health and climate change",
+        "health and climate change",
+        "global health equity",
+        "Global health equity"
+    ],
+    "29_Microcredit_and_Microfinance": [
+        "micro-credit financing",
+        "micro-credit",
+        "microfinance support",
+        "European Microfinance Facility"
+    ],
+    "30_EU_Financial_Budget_2010": [
+        "EU budget 2010",
+        "Community budget 2010",
+        "draft general budget",
+        "Budget 2010",
+        "2010 EU budget"
+    ],
+    "31_EU_Budget_General": [
+        "European Union budget",
+        "EU Budget",
+        "EU budget implementation",
+        "EU budget reform",
+        "EU budget management"
+    ],
+    "32_Judicial_Cooperation_and_Eurojust": [
+        "EUROPOL data protection",
+        "Eurojust competences",
+        "judicial cooperation",
+        "judicial cooperation in civil matters"
+    ],
+    "33_Uyghur_Uighur_Issues": [
+        "Uighur conflict resolution",
+        "Uyghur human rights",
+        "Xinjiang human rights",
+        "Xinjiang conflict"
+    ],
+    "34_Globalisation_and_Trade": [
+        "World Trade Organisation",
+        "trade liberalisation",
+        "international trade",
+        "WTO negotiations"
+    ],
+    "35_EU_Integration_General": [
+        "EU integration",
+        "European integration",
+        "European Union integration"
+    ],
+    "36_EU_Leadership_and_Appointments": [
+        "EU leadership nominations",
+        "EU appointments and procedures",
+        "EU institutional appointments",
+        "EU leadership appointments"
+    ],
+    "37_Georgia_EU_Cooperation": [
+        "EU Georgia cooperation",
+        "EU-Georgia relations",
+        "Georgia conflict 2008"
+    ],
+    "38_EU_Border_Policy_and_Frontex": [
+        "EU border policy",
+        "EU border control",
+        "immigration and Frontex",
+        "Frontex and border control"
+    ],
+    "39_Climate_Summits_and_Copenhagen": [
+        "Copenhagen climate summit",
+        "Copenhagen Summit",
+        "Copenhagen conference"
+    ],
+    "40_EU_Budgetary_Control_and_Audit": [
+        "budgetary control",
+        "EU Budget Scrutiny",
+        "EU budget review",
+        "EU budget audit"
+    ],
+    "41_Parliamentary_Procedure_and_Rules": [
+        "Parliamentary Rules of Procedure",
+        "parliamentary procedure",
+        "Parliamentary procedure",
+        "parliamentary transparency",
+        "speaking time allocation",
+        "speaking time",
+        "speaking time allocation",
+        "debate procedure",
+        "debate closure",
+        "voting procedure",
+        "opening of parliament",
+        "order of business",
+        "Question Hour",
+        "Rule 51 application"
+    ],
+    "42_European_Parliament_Institutional_Role": [
+        "European Parliament",
+        "European Parliament role",
+        "European Parliament Presidency",
+        "Support for EP President",
+        "Parliamentary discharge",
+        "Parliamentary staff retirement",
+        "Parliamentary rights and influence",
+        "Parliamentary atmosphere"
+    ],
+    "43_EU_Budget_Negotiations_and_Management": [
+        "EU budget negotiations",
+        "Community budget 2010",
+        "EU budget savings",
+        "EU budget reform",
+        "draft general budget",
+        "EU budget and cofinancing",
+        "EU budget implementation",
+        "EU budget procedure",
+        "EU budget accountability",
+        "EU budget management",
+        "budget debate",
+        "budgetary procedure",
+        "budgetary control",
+        "EU budget increase",
+        "EU Budget Scrutiny"
+    ],
+    "44_Economic_Policy_and_Financial_Reform": [
+        "Financial regulation reform",
+        "financial market supervision",
+        "financial crisis",
+        "financial system bonuses",
+        "financial data access",
+        "financial data sharing",
+        "financial market regulation",
+        "global economic system",
+        "global financial crisis",
+        "global economic development"
+    ],
+    "45_Social_Policy_and_Inclusion": [
+        "social inclusion",
+        "protection of disadvantaged groups",
+        "protection of minors law",
+        "Volunteering politicisation",
+        "European Year of Volunteering",
+        "Volunteer recognition",
+        "Roma social integration",
+        "unemployment and poverty",
+        "access to credit"
+    ],
+    "46_Agricultural_Policy_and_Support": [
+        "common agricultural policy",
+        "agricultural policy",
+        "agricultural aid package",
+        "agricultural sector crisis",
+        "agricultural crisis",
+        "agricultural aid",
+        "agriculture and climate change",
+        "agricultural sector crisis",
+        "dairy farmers support",
+        "dairy industry policy",
+        "Milk sector support",
+        "milk quotas",
+        "milk sector crisis",
+        "Milk producers' aid",
+        "dairy market policy",
+        "dairy sector crisis"
+    ],
+    "47_Rural_and_Food_Safety_Issues": [
+        "pesticide use statistics",
+        "pesticide statistics harmonisation",
+        "plant protection policy",
+        "plant protection statistics",
+        "food policy",
+        "EU food policy",
+        "bluetongue vaccine policy",
+        "bluetongue vaccine",
+        "vaccine access developing countries"
+    ],
+    "48_Trade_and_Market_Access": [
+        "international trade",
+        "trade liberalisation",
+        "EU Mediterranean trade",
+        "EU-US cooperation",
+        "EU-US relations",
+        "free trade",
+        "World Trade Organisation",
+        "Doha Development Agenda",
+        "WTO negotiations"
+    ],
+    "49_Internal_Market_and_Single_Market_Barriers": [
+        "Internal market functioning",
+        "single market barriers",
+        "common market",
+        "single market barriers",
+        "origin marking",
+        "origin marking system",
+        "origin marking regulation"
+    ],
+    "50_Competition_and_Retail_Practices": [
+        "farmer abuse by retailers",
+        "Tobacco subsidies",
+        "manager pay and unemployment",
+        "unacceptable episodes",
+        "market regulation",
+        "retailer abuse"
+    ],
+    "51_EU_External_Action_and_Diplomacy": [
+        "EU foreign policy",
+        "EU foreign policy structure",
+        "EU foreign policy experience",
+        "European Council presidency",
+        "European unification",
+        "Common foreign policy",
+        "external action service",
+        "External Action Service reform"
+    ],
+    "52_EU_Enlargement_and_Neighbourhood": [
+        "EU enlargement",
+        "EU enlargement strategy",
+        "EU enlargement and economic restructuring",
+        "EU enlargement to Turkey",
+        "Turkey's EU accession",
+        "EU-Turkey relations",
+        "Enlargement strategy paper",
+        "EU-Tajikistan relations",
+        "EU-Belarus relations",
+        "EU-Moldova relations",
+        "Moldova assistance",
+        "Moldova financial assistance",
+        "Moldova economic crisis"
+    ],
+    "53_Black_Sea_and_Baltic_Regional_Strategies": [
+        "Black Sea strategy",
+        "Baltic Sea Strategy",
+        "Baltic states economic situation",
+        "Baltic Sea cooperation"
+    ],
+    "54_EU_Security_Piracy_and_Maritime": [
+        "Somali piracy",
+        "piracy in Somalia",
+        "Operation Atalanta security",
+        "Operation Atalanta",
+        "Somalia maritime security",
+        "maritime security",
+        "sea piracy"
+    ],
+    "55_Criminal_Justice_and_Policing": [
+        "criminal proceedings",
+        "police cooperation",
+        "police cooperation",
+        "Europol and police cooperation",
+        "Europol agreements",
+        "Europol and security",
+        "Europol and police cooperation",
+        "EUROPOL data protection"
+    ],
+    "56_Human_Rights_and_Discrimination": [
+        "non-discrimination issues",
+        "anti-discrimination directive",
+        "protection of non-smokers",
+        "passive smoking",
+        "violence against women",
+        "violence against women and children",
+        "violence against women",
+        "gender balance",
+        "anti-discrimination"
+    ],
+    "57_Freedom_of_Information_and_Transparency": [
+        "freedom of information",
+        "access to documents",
+        "access to institutional documents",
+        "transparency in parliament",
+        "parliamentary transparency",
+        "EU transparency"
+    ],
+    "58_Digital_Policy_and_Telecoms": [
+        "Telecoms Reform Package",
+        "telecoms market regulation",
+        "telecommunications package",
+        "telecoms sector development",
+        "access to electronic services",
+        "digital single market",
+        "Google book scanning agreement",
+        "Google Books Project",
+        "Google Books Project copyright"
+    ],
+    "59_Intellectual_Property_and_Copyright": [
+        "copyright and intellectual rights",
+        "EU copyright law",
+        "digital copyright",
+        "digitisation of cultural heritage",
+        "Europeana copyright reform"
+    ],
+    "60_Transport_and_Passenger_Protection": [
+        "airline passenger protection",
+        "passenger compensation",
+        "passenger compensation airline bankruptcy",
+        "rail transport",
+        "Road transport safety"
+    ],
+    "61_Public_Health_and_Vaccination": [
+        "influenza A vaccinations",
+        "global health equity",
+        "Global health equity",
+        "vaccine access developing countries",
+        "public health"
+    ],
+    "62_Cultural_Heritage_and_European_Identity": [
+        "European identity",
+        "citizens' Europe",
+        "European cultural heritage",
+        "digitisation of cultural heritage",
+        "European identity"
+    ],
+    "63_Justice_Freedom_and_Security_Agenda": [
+        "freedom, justice and security",
+        "Freedom, Security and Justice",
+        "Justice freedom security",
+        "ne bis in idem principle"
+    ],
+    "64_Professional_Qualifications_and_Recognition": [
+        "Professional Qualifications Directive",
+        "recognition of professional qualifications",
+        "Mutual recognition of professional qualifications",
+        "recognition of professional qualifications"
+    ],
+    "65_Cohesion_and_Regional_Policies": [
+        "European cohesion policy",
+        "cohesion policy",
+        "Territorial cohesion policy",
+        "cohesion policies",
+        "EU Funds Mismanagement",
+        "community budget"
+    ],
+    "66_Financial_Assistance_and_Microfinance": [
+        "European Globalisation Adjustment Fund",
+        "European Progress Microfinance Facility",
+        "Progress Microfinance Facility",
+        "Microfinance instrument",
+        "microfinance facility for employment",
+        "microfinance support",
+        "micro-credit financing",
+        "small business loans",
+        "macro-financial assistance for Serbia",
+        "macro-financial assistance"
+    ],
+    "67_Energy_Infrastructure_and_Pipelines": [
+        "Nabucco gas pipeline",
+        "Nabucco pipeline",
+        "energy supply diversification",
+        "energy infrastructure",
+        "energy supply"
+    ],
+    "68_Climate_Action_and_Economic_Policies": [
+        "climate protection competitiveness",
+        "climate change costs",
+        "economic and climate crisis",
+        "economic growth and climate change",
+        "EU climate action",
+        "climate change financing"
+    ],
+    "69_Security_Council_and_Peacekeeping": [
+        "international peacekeeping",
+        "NATO-ISAF mission Afghanistan",
+        "NATO related issues",
+        "Afghanistan action plan",
+        "Afghanistan peace and security"
+    ],
+    "70_European_Cohesion_and_Solidarity": [
+        "European solidarity",
+        "European Union Solidarity Fund",
+        "EU Solidarity Fund",
+        "Solidarity Fund",
+        "European solidarity"
+    ],
+    "71_EU_Foreign_Relations_with_Third_Countries": [
+        "EU-China relations",
+        "EU-US relations",
+        "EU-Tajikistan relations",
+        "EU-Barbados visa exemption",
+        "EU-Moldova relations",
+        "EU-Belarus relations",
+        "EU-Georgia relations",
+        "EU-Georgia cooperation",
+        "EU-US economic relations"
+    ],
+    "72_EU_Presidency_and_Political_Performance": [
+        "Czech EU Presidency",
+        "Czech Presidency performance",
+        "Swedish Presidency",
+        "Swedish Presidency results",
+        "Swedish Presidency achievements",
+        "EU Presidencies",
+        "EU Presidency",
+        "Council Presidency"
+    ],
+    "73_EU_Legal_and_Codification_Issues": [
+        "codification of legal acts",
+        "codification of texts",
+        "Court of Auditors report",
+        "Court of Auditors",
+        "Court of Justice budget"
+    ],
+    "74_Environmental_Protection_and_Forests": [
+        "Forest fire prevention",
+        "EU forest fire response",
+        "sustainable forest management",
+        "deforestation and climate change"
+    ],
+    "75_Digital_Governance_and_Data_Protection": [
+        "EU data protection",
+        "SWIFT data transfers",
+        "financial data access",
+        "internet end-user safeguards"
+    ],
+    "76_Employment_and_Labour_Policies": [
+        "staff efficiency and accountability",
+        "staff efficiency",
+        "staff retirement",
+        "support for unemployed",
+        "short-term investment",
+        "redundancy support",
+        "small business support"
+    ],
+    "77_Crisis_Response_and_Humanitarian_Aid": [
+        "humanitarian aid to Taiwan",
+        "humanitarian aid",
+        "EU emergency assistance",
+        "aid to developing countries",
+        "Typhoon Morakot relief",
+        "humanitarian response"
+    ],
+    "78_EU_Taxation_and_Fiscal_Instruments": [
+        "financial transaction tax",
+        "Traditional Own Resources",
+        "Flexibility Instrument",
+        "EU Budget and Investments",
+        "budget amendments"
+    ],
+    "79_Military_and_Counterterrorism": [
+        "counter-terrorism measures",
+        "security of energy supply",
+        "fight against terrorism",
+        "international security"
+    ],
+    "80_Public_Access_and_Freedom_of_Speech": [
+        "freedom of speech",
+        "freedom of expression",
+        "Freedom of the press",
+        "freedom, justice and security"
+    ],
+    "81_EU_Sectoral_Policies_and_Reforms": [
+        "Modernisation of EU law",
+        "EU policy reform",
+        "EU institutional reform",
+        "EU institutional competence"
+    ],
+    "82_European_Identity_and_Citizenship": [
+        "European identity",
+        "citizens' Europe",
+        "election of the President",
+        "citizens' freedoms",
+        "European elections"
+    ],
+    "83_Research_Innovation_and_Technology": [
+        "digital single market",
+        "telecoms sector development",
+        "internet end-user safeguards",
+        "innovation policy"
+    ],
+    "84_Environmental_Finance_and_Carbon_Policy": [
+        "emissions trading directive",
+        "carbon dioxide quotas",
+        "carbon capture and storage",
+        "geological storage of CO2",
+        "storage of carbon dioxide"
+    ],
+    "85_European_Court_and_Oversight": [
+        "Court of Auditors report",
+        "EU Court of Auditors report",
+        "EU budget audit",
+        "parliamentary oversight",
+        "European Ombudsman"
+    ],
+    "86_Crises_and_Special_Committees": [
+        "Special Committee on Crisis",
+        "catch-the-eye procedure",
+        "debate closure",
+        "unacceptable episodes"
+    ],
+    "87_Consumer_Protection_and_Standards": [
+        "passenger compensation",
+        "airline passenger protection",
+        "consumer protection",
+        "product safety standards",
+        "tyre fuel efficiency labelling"
+    ],
+    "88_Public_Sector_Governance_and_Transparency": [
+        "transparency in parliament",
+        "EU spending transparency",
+        "EU Funds Mismanagement",
+        "staff efficiency and accountability"
+    ],
+    "89_European_Strategies_and_Long_Term_Plans": [
+        "Europe's future",
+        "European 2020 strategy",
+        "European Union 2020 strategy",
+        "EU strategy timetable",
+        "European Council strategy"
+    ],
+    "90_Political_Controversies_and_Ethics": [
+        "Berlusconi immunity",
+        "Barroso re-election",
+        "Barroso's appointment",
+        "Barroso Commission failure",
+        "political witch-hunt",
+        "political reflection"
+    ],
+    "91_Legal_Instruments_and_Treaty_Procedures": [
+        "Treaty appointment",
+        "Treaty of Lisbon implementation",
+        "Treaty of Lisbon entry into force",
+        "Treaty of Lisbon articles",
+        "Treaty of Lisbon appointments"
+    ],
+    "92_Environment_Agriculture_Interactions": [
+        "Agriculture and climate",
+        "agriculture and climate change",
+        "dairy industry policy",
+        "EU dairy market regulation",
+        "agricultural policy"
+    ],
+    "93_European_Policies_on_Migration_and_Asylum": [
+        "immigration and human rights",
+        "immigration policy",
+        "asylum and migration",
+        "illegal immigration",
+        "migration policy",
+        "immigration management policies"
+    ],
+    "94_Regional_Conflicts_and_Responses": [
+        "DRC conflict",
+        "ethnic violence in Congo",
+        "Bosnia situation",
+        "Belarus",
+        "Belarus human rights",
+        "Ukraine related issues"
+    ],
+    "95_EU_Subsidies_and_Market_Intervention": [
+        "Tobacco subsidies",
+        "agricultural aid package",
+        "direct support schemes for farmers",
+        "short-term investment",
+        "agricultural support schemes"
+    ],
+    "96_Parliamentary_Bodies_and_Committees": [
+        "Council and Commission statements",
+        "Council meeting",
+        "Council Presidency",
+        "Committee reports",
+        "Committee mandates",
+        "observer mandates"
+    ],
+    "97_EU_Legal_Procedure_and_Jurisdiction": [
+        "jurisdiction conflict",
+        "ne bis in idem principle",
+        "Court of Justice budget",
+        "legal competence issues"
+    ],
+    "98_Education_and_Research_Policies": [
+        "University education",
+        "research funding",
+        "innovation policy",
+        "professional qualifications"
+    ],
+    "99_Specific_National_and_Bilateral_Issues": [
+        "Italy-Libya migration agreement",
+        "Russia-Georgia conflict",
+        "Italian Prime Minister",
+        "Tony Blair EU presidency",
+        "Lithuanian Parliament decision",
+        "Mrs Haidar case"
+    ],
+    "100_Miscellaneous_and_Unallocated": [
+        "unacceptable episodes",
+        "nan",
+        "lift maintenance",
+        "debate closure",
+        "observer mandates",
+        "other miscellaneous items"
+    ]
+}
